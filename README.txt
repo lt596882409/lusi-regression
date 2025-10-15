@@ -16,4 +16,4 @@ lusi-regression/
 │   ├── P_matrix.m        
 │   ├── print_results.m        
 │   └── V_matrix.m       
-└── README.txt            # 许可证文件
+└── README.txt          
